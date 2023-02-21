@@ -12,3 +12,5 @@ As a user, I'd like to be matched with other people who shared similar quotes, s
 As a user, I'd like to be able to see more quotes from a person I'm interested in, so that I can get to know them better before talking to them.
 
 As a user, I'd like to keep my information and photo private for as long as I can, so that I can feel safer.
+
+As a user, I'd like to share my contact information with a person when we mutually agree on doing so, so that I can continue building a relationship with them outside of the service.
